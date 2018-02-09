@@ -1,7 +1,7 @@
 [package]
-name = "docker-attach-2"
+name = "docker-attach"
 version = "0.1.0"
-authors = ["Michael Bryant <michael.bryant@plangrid.com>"]
+authors = ["Michael Bryant <mbryantj@gmail.com>"]
 
 [dependencies]
 termion = "1"

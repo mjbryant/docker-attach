@@ -1,5 +1,5 @@
 [root]
-name = "docker-attach-2"
+name = "docker-attach"
 version = "0.1.0"
 dependencies = [
  "termion 1.5.1 (registry+https://github.com/rust-lang/crates.io-index)",
