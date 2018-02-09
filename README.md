@@ -7,4 +7,4 @@ binary wherever you want.
 
 ## Usage
 Just run `docker-attach`. It'll display an interactive list of running docker containers.
-Use (`j`, `k`) or the arrow keys to scroll and select an image to attach to.
+Use (`j`, `k`) to scroll and select an image to attach to.
